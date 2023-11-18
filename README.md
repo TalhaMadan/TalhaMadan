@@ -12,6 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Contact Me :
 <div align="left">
   <a href="https://www.linkedin.com/in/talha-madan/" target="_blank">
